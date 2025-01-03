@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Post Type Analytics
- * Description: Post Type Analytics is WordPress Plugin that enables the users to see and download the details about all the Post Types present in the site.
+ * Description: Post Type Analytics is a WordPress plugin designed to provide comprehensive insights into all the post types on your website. With this plugin, users can view detailed information such as the number of post types, their labels, and the count of published posts in each type.
  * Version: 1.0
  * Author: Rishabh Diwan
  * Author URI: https://rishabhdiwan.netlify.app
